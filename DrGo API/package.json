@@ -1,0 +1,17 @@
+{
+  "name": "drgo",
+  "version": "1.0.0",
+  "description": "API rest for DrGo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//Saintner/DrGo.git"
+  },
+  "author": "Eris Ramirez",
+  "license": "ISC"
+}
